@@ -1,0 +1,7 @@
+<?php $bdd=new PDO('mysql:host=localhost;dbname=AlexandreDB;charset=utf8','root','');?>
+		
+		<?php $req=$bdd->prepare('insert into avis(nom,sujet,texte) Values(?,?,?)');
+		$req->execute(array(
+			
+			$_POST['nomText'],$_POST['SujetText'],$_POST['avisText']));
+		?>

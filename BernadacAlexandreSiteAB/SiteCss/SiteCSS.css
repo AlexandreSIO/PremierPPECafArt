@@ -1,0 +1,178 @@
+#bonjour
+{
+	position:absolute;
+	left:5em
+}
+body
+{
+	background-color:#aca
+}
+a
+{
+	color:red
+}
+a:hover
+{
+	color:yellow
+}
+a:active
+{
+	color:orange
+}
+a:visited
+{
+	color:brown
+}
+#teatitle
+{
+	position:absolute;
+	left:5em;
+	top:25em
+}
+#tabthe
+{
+	position:absolute;
+	left:5em;
+	top:27em;
+	font-size:2em;
+	background-color:#ffa;
+	width:9em
+}
+#Imp
+{
+	font-family:Impact,comic sans ms;
+	font-style:normal;
+	color:#ff9000
+}
+nav
+{
+	background-color:#ffa;
+	position:relative;
+	width:7.8em;
+	height:125em;
+}
+nav img
+{
+	width:7.8em;
+}
+footer
+{
+	Background-color:#ffa;
+	
+}
+footer a
+{
+	font-weight:lighter;
+}
+#SecIntro
+{
+	position:absolute;
+	left:11em;
+	bottom:1%
+}
+#TabHoraires
+{
+	background-color:#ffa;
+	width:7.8em;
+}
+#Imatcha img
+{
+	width:35em;
+	position:absolute;
+	left:35em;
+	top:55em
+}
+#Igyokuro img
+{
+	width:35em;
+	position:absolute;
+	left:35em;
+	top:78em;
+}
+#ImageCafe img
+{
+	width:35em;
+	position:absolute;
+	left:35em;
+	top:53em
+}
+#Icoffee img
+{
+	width:35em;
+	position:absolute;
+	left:35em;
+	top:75em
+}
+#tabcafe
+{
+	position:absolute;
+	top:27em;
+	font-size:2em;
+	background-color:#ffa;
+	width:9em;
+	left:5em
+}
+#h1caf
+{
+	position:absolute;
+	left:5em;
+	top:25em
+}
+#vid
+{
+	position:absolute;
+	top:45em;
+	left:10em;
+}
+#vid img
+{
+	width:35em;
+}
+#Image_Lieu
+{
+	position:absolute;
+	left:10em;
+	top:49em;
+	
+}
+#SecIntro
+{
+	position:absolute;
+	top:75em;
+}
+.titre
+{
+	background-color:#ffa
+}
+#h1theme
+{
+	position:absolute;
+	left:5em;
+}
+#video p
+{
+	width:65em;
+	margin-top:2em;
+	margin-left:1.5em;
+}
+#kitajima
+{
+	position:absolute;
+	width:20em;
+	left:36em;
+	background-color:#ffa
+}
+#kitajima2
+{
+	position:absolute;
+	width:20em;
+	left:36em;
+	top:10em;
+}
+.contest
+{
+	position:absolute;
+	bottom:40em;
+	background-color:#aca;
+	font-family:impact;
+}
